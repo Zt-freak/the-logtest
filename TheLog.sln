@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLog", "TheLog\TheLog.csproj", "{8CD71B60-21ED-4347-8894-AAB2DDD50590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLog.Business", "TheLog.Business\TheLog.Business.csproj", "{45D0D001-0475-46CF-94A1-883664185E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD71B60-21ED-4347-8894-AAB2DDD50590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD71B60-21ED-4347-8894-AAB2DDD50590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD71B60-21ED-4347-8894-AAB2DDD50590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD71B60-21ED-4347-8894-AAB2DDD50590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D0D001-0475-46CF-94A1-883664185E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D0D001-0475-46CF-94A1-883664185E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D0D001-0475-46CF-94A1-883664185E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D0D001-0475-46CF-94A1-883664185E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F6B300-B652-4C32-9433-10BF457DF88C}
+	EndGlobalSection
+EndGlobal

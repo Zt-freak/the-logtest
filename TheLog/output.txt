@@ -1,0 +1,25 @@
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\bnkho\source\repos\TheLog\TheLog
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
+TheLog.Business.Services.UserService: Information: Logger: getallusers
+Trace: getallusers
